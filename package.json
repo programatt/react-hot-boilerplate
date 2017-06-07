@@ -43,7 +43,11 @@
     "webpack-hot-middleware": "^2.10.0"
   },
   "dependencies": {
+    "c3": "^0.4.10",
+    "c3-react": "^0.1.13",
+    "d3": "^3.5.0",
     "react": "^0.14.6",
+    "react-bootstrap": "^0.31.0",
     "react-dom": "^0.14.6"
   }
 }
